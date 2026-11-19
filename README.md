@@ -1,4 +1,38 @@
 
+<!-- identity-block -->
+<div align="center">
+
+# laravel-modernized
+
+<sub>Reference mirror of the Laravel PHP framework; see laravel/laravel for the canonical upstream.</sub>
+
+</div>
+
+## At a glance
+
+| Field | Detail |
+| --- | --- |
+| Repository | laravel-modernized |
+| Primary language | Blade |
+| Topics | backend, framework, laravel, php, reference |
+| License | MIT |
+| Branch | 13.x |
+| Maintainer | [@devarent](https://github.com/devarent) |
+
+## Overview
+
+laravel-modernized is a hands-on repository focused on: Reference mirror of the Laravel PHP framework; see laravel/laravel for the canonical upstream.. Primary language: Blade. Topics: backend, framework, laravel, php, reference. The README below documents the project; use the table above for a quick overview.
+
+### Global references
+
+<div align="center">
+
+🇮🇸 Iceland &middot; 🇳🇿 New Zealand &middot; 🇨🇭 Switzerland &middot; 🇸🇮 Slovenia &middot; 🇮🇪 Ireland &middot; 🇦🇹 Austria &middot; 🇵🇹 Portugal &middot; 🇸🇬 Singapore &middot; 🇫🇮 Finland
+
+</div>
+
+---
+
 <!-- dbx-style-kit -->
 <div align="center">
 
